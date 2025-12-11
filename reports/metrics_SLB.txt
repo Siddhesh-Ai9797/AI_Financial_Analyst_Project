@@ -1,0 +1,17 @@
+Ticker: SLB
+Model: xgb
+Threshold: 0.30
+accuracy: 0.5343
+precision: 0.5243
+recall: 0.7955
+f1: 0.6321
+auc: 0.5467
+
+              precision    recall  f1-score   support
+
+           0     0.5663    0.2701    0.3658       174
+           1     0.5243    0.7955    0.6321       176
+
+    accuracy                         0.5343       350
+   macro avg     0.5453    0.5328    0.4989       350
+weighted avg     0.5452    0.5343    0.4997       350

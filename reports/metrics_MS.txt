@@ -1,0 +1,17 @@
+Ticker: MS
+Model: xgb
+Threshold: 0.30
+accuracy: 0.5430
+precision: 0.5485
+recall: 0.7345
+f1: 0.6280
+auc: 0.5120
+
+              precision    recall  f1-score   support
+
+           0     0.5300    0.3312    0.4077       160
+           1     0.5485    0.7345    0.6280       177
+
+    accuracy                         0.5430       337
+   macro avg     0.5393    0.5329    0.5179       337
+weighted avg     0.5397    0.5430    0.5234       337

@@ -1,0 +1,17 @@
+Ticker: AMZN
+Model: xgb
+Threshold: 0.30
+accuracy: 0.5059
+precision: 0.5362
+recall: 0.6066
+f1: 0.5692
+auc: 0.4634
+
+              precision    recall  f1-score   support
+
+           0     0.4586    0.3885    0.4207       157
+           1     0.5362    0.6066    0.5692       183
+
+    accuracy                         0.5059       340
+   macro avg     0.4974    0.4975    0.4950       340
+weighted avg     0.5004    0.5059    0.5006       340

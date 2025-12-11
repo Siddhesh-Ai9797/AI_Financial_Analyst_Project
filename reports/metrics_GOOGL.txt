@@ -1,0 +1,17 @@
+Ticker: GOOGL
+Model: xgb
+Threshold: 0.32
+accuracy: 0.5061
+precision: 0.5954
+recall: 0.5255
+f1: 0.5583
+auc: 0.5085
+
+              precision    recall  f1-score   support
+
+           0     0.4076    0.4776    0.4399       134
+           1     0.5954    0.5255    0.5583       196
+
+    accuracy                         0.5061       330
+   macro avg     0.5015    0.5016    0.4991       330
+weighted avg     0.5191    0.5061    0.5102       330

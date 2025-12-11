@@ -1,0 +1,17 @@
+Ticker: ETH-USD
+Model: xgb
+Threshold: 0.32
+accuracy: 0.5480
+precision: 0.5491
+recall: 0.7956
+f1: 0.6497
+auc: 0.5478
+
+              precision    recall  f1-score   support
+
+           0     0.5446    0.2723    0.3630       202
+           1     0.5491    0.7956    0.6497       225
+
+    accuracy                         0.5480       427
+   macro avg     0.5468    0.5339    0.5064       427
+weighted avg     0.5469    0.5480    0.5141       427

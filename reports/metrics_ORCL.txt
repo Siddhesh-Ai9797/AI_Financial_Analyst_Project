@@ -1,0 +1,17 @@
+Ticker: ORCL
+Model: xgb
+Threshold: 0.30
+accuracy: 0.4620
+precision: 0.5385
+recall: 0.2000
+f1: 0.2917
+auc: 0.4681
+
+              precision    recall  f1-score   support
+
+           0     0.4422    0.7872    0.5663       141
+           1     0.5385    0.2000    0.2917       175
+
+    accuracy                         0.4620       316
+   macro avg     0.4903    0.4936    0.4290       316
+weighted avg     0.4955    0.4620    0.4142       316

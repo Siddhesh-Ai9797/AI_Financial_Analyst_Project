@@ -1,0 +1,17 @@
+Ticker: SBIN.BO
+Model: xgb
+Threshold: 0.38
+accuracy: 0.5228
+precision: 0.5776
+recall: 0.5110
+f1: 0.5423
+auc: 0.5319
+
+              precision    recall  f1-score   support
+
+           0     0.4702    0.5374    0.5016       147
+           1     0.5776    0.5110    0.5423       182
+
+    accuracy                         0.5228       329
+   macro avg     0.5239    0.5242    0.5219       329
+weighted avg     0.5297    0.5228    0.5241       329

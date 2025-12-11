@@ -1,0 +1,17 @@
+Ticker: NVDA
+Model: xgb
+Threshold: 0.30
+accuracy: 0.4838
+precision: 0.5842
+recall: 0.2837
+f1: 0.3819
+auc: 0.5374
+
+              precision    recall  f1-score   support
+
+           0     0.4461    0.7407    0.5568       162
+           1     0.5842    0.2837    0.3819       208
+
+    accuracy                         0.4838       370
+   macro avg     0.5151    0.5122    0.4694       370
+weighted avg     0.5237    0.4838    0.4585       370

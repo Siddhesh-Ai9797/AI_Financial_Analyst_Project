@@ -1,0 +1,28 @@
+# Compatible with Python 3.13 on Apple Silicon
+
+# Core
+pandas>=2.2.3
+numpy>=2.1.1
+scikit-learn>=1.6.0
+
+# Data
+yfinance>=0.2.44
+requests>=2.32.3
+
+# Technical indicators
+ta>=0.11.0
+
+# Viz
+matplotlib>=3.9.2
+seaborn>=0.13.2
+plotly>=5.24.1
+
+# ML extras
+xgboost>=2.1.1
+
+# App
+streamlit>=1.38.0
+
+# Utils
+tqdm>=4.66.5
+joblib>=1.4.2

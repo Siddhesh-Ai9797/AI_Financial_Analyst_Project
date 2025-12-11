@@ -1,0 +1,17 @@
+Ticker: BTC-USD
+Model: xgb
+Threshold: 0.30
+accuracy: 0.5099
+precision: 0.5312
+recall: 0.5613
+f1: 0.5459
+auc: 0.5384
+
+              precision    recall  f1-score   support
+
+           0     0.4833    0.4531    0.4677       192
+           1     0.5312    0.5613    0.5459       212
+
+    accuracy                         0.5099       404
+   macro avg     0.5073    0.5072    0.5068       404
+weighted avg     0.5085    0.5099    0.5087       404

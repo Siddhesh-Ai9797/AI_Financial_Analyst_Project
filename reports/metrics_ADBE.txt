@@ -1,0 +1,17 @@
+Ticker: ADBE
+Model: xgb
+Threshold: 0.30
+accuracy: 0.5118
+precision: 0.5164
+recall: 0.8971
+f1: 0.6555
+auc: 0.4823
+
+              precision    recall  f1-score   support
+
+           0     0.4706    0.0982    0.1624       163
+           1     0.5164    0.8971    0.6555       175
+
+    accuracy                         0.5118       338
+   macro avg     0.4935    0.4977    0.4090       338
+weighted avg     0.4943    0.5118    0.4177       338

@@ -1,0 +1,17 @@
+Ticker: META
+Model: xgb
+Threshold: 0.30
+accuracy: 0.4794
+precision: 0.5188
+recall: 0.3791
+f1: 0.4381
+auc: 0.5151
+
+              precision    recall  f1-score   support
+
+           0     0.4541    0.5949    0.5151       158
+           1     0.5188    0.3791    0.4381       182
+
+    accuracy                         0.4794       340
+   macro avg     0.4865    0.4870    0.4766       340
+weighted avg     0.4887    0.4794    0.4739       340

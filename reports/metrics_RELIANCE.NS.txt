@@ -1,0 +1,17 @@
+Ticker: RELIANCE.NS
+Model: xgb
+Threshold: 0.36
+accuracy: 0.5154
+precision: 0.5978
+recall: 0.3143
+f1: 0.4120
+auc: 0.5212
+
+              precision    recall  f1-score   support
+
+           0     0.4828    0.7517    0.5879       149
+           1     0.5978    0.3143    0.4120       175
+
+    accuracy                         0.5154       324
+   macro avg     0.5403    0.5330    0.5000       324
+weighted avg     0.5449    0.5154    0.4929       324
