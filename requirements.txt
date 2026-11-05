@@ -26,3 +26,6 @@ streamlit>=1.38.0
 # Utils
 tqdm>=4.66.5
 joblib>=1.4.2
+
+# Live refresh in the dashboard
+streamlit-autorefresh>=1.0.1
